@@ -1,0 +1,50 @@
+ul {
+    list-style: none;
+    margin: 0px;
+    padding-left: 0px;
+    width: 100%;
+    
+}
+    
+}
+a {
+    text-decoration: none;
+}
+li {
+    float:left;
+    margin-right: 50px;
+}
+h1 {
+    float: none;
+}
+header{
+    background-color: rgb(96, 180, 236);
+    width: 100%;
+    height: 75px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+}
+main {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+    
+}
+article {
+    background-color: rgb(22, 15, 126);
+    color: white;
+    height: 250px;
+    
+}
+aside {
+    background-color:  rgb(96, 180, 236);
+    height: 400px;
+    float: left;
+
+}
+section
+footer {
+    background-color: rgb(22, 15, 126);
+    color: white;
+    text-align: center;
+}
